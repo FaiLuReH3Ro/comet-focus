@@ -22,9 +22,18 @@ It is clear that procrastination is a problem for many college students. UTD stu
 
 <h3>Empathy Map</h3>
 
+<img src="./Files/Empathy Map.png">
+
 <h3>Design Persona</h3>
 
+<div align="center">
+  <img src="./Files/Design Persona.PNG">
+</div>
+
 <h3>Future State User Journey</h3>
+
+<img src="./Files/Future State User Journey 1.png">
+<img src="./Files/Future State User Journey 2.png">
 
 <h3>Recommendations</h3>
 
