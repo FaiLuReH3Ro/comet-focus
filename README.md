@@ -39,7 +39,7 @@ It is clear that procrastination is a problem for many college students. UTD stu
 
 <h4>Recommendation 1</h4>
 
-<p>Provide a To-Do list and calendar where users can input assignment due dates and know what tasks to do on a certain day. The app would remind users by sending a notification on their phone about upcoming assignments.</p>
+<p><em>Provide a To-Do list and calendar where users can input assignment due dates and know what tasks to do on a certain day. The app would remind users by sending a notification on their phone about upcoming assignments.</em></p>
 
 <p>
 In a focus group, it was mentioned that due dates and adrenaline can be motivators to get started on work. Participant 1 in the interview has also stated that a deadline serves as a motivator and driver. Since due dates can act as a motive, a reminder about assignment dates from the app can give users a push to get started. Furthermore, forgetting to do tasks was mentioned in a focus group and by Participant 3 in the interview. Having a list and calendar can help users remember what to do and keep things organized. 
@@ -48,7 +48,9 @@ In a focus group, it was mentioned that due dates and adrenaline can be motivato
 <h4>Recommendation 2</h4>
 
 <p>
-Provide a Pomodoro timer as the main feature when users are doing a task. The timer doesn’t have to be set at 25 minutes, but can be adjusted to the user’s preference. Also, the break timer can be adjusted within 15 minutes, and users can set the number of Pomodoro cycles.
+  <em>
+  Provide a Pomodoro timer as the main feature when users are doing a task. The timer doesn’t have to be set at 25 minutes, but can be adjusted to the user’s preference. Also, the break timer can be adjusted within 15 minutes, and users can set the number of Pomodoro cycles.
+  </em>
 </p>
 
 <p>
@@ -58,7 +60,7 @@ Provide a Pomodoro timer as the main feature when users are doing a task. The ti
 <h4>Recommendation 3</h4>
 
 <p>
-  Recommendation: Provide a mode that locks the phone during the work timer. During the timer, users will not be able to use their mobile phones until the break phase or after completing the cycle. 
+  <em>Recommendation: Provide a mode that locks the phone during the work timer. During the timer, users will not be able to use their mobile phones until the break phase or after completing the cycle.</em>
 </p>
 
 <p>
@@ -68,7 +70,7 @@ According to “The Mediating Roles of Time Management and Learning Strategic Ap
 <h2>Putting it all together</h2>
 
 <p>
-After doing our individual research, the students were placed in teams to put everything together and design the mobile app. My team and I designed the look and feel of the app Comet Focus. I worked on feature 2 of the app, which is the pomodoro timer. Here are the slides that my group presented at the end of the course. It includes the purpose of the project, wireframes for each feature, research that supported the features, and the overall design choices. 
+After doing our individual research, I was placed in a team to put everything together and design the mobile app. My team and I designed the look and feel of the app Comet Focus. I worked on feature 2 of the app, which is the pomodoro timer. Here are the slides that my group presented at the end of the course. It includes the purpose of the project, wireframes for each feature, research that supported the features, and the overall design choices. 
 </p>
 
 <h3>Group Members</h3>
