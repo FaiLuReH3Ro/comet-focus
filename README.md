@@ -84,8 +84,27 @@ After doing our individual research, I was placed in a team to put everything to
 
 <h2>Wireframes</h2>
 
-<p>Coming Soon...</p>
+<h3>Syllabus Scanner</h3>
 
+<img src="./Files/Syllabus Scanner.png">
+<img src="./Files/Syllabus Scanner 2.png">
+
+<h3>Pomodoro Timer</h3>
+
+<img src="./Files/Pomodoro Timer.png">
+<img src="./Files/Pomodoro Timer 2.png">
+
+<h3>Study Groups</h3>
+
+<img src="./Files/Study Groups.png">
+
+<h3>Design Choices</h3>
+
+<img src="./Files/Branding.png">
+
+<h2>Presentation</h2>
+
+<p>Check out our <a href="https://docs.google.com/presentation/d/1Bs_FYXNZZEEwO4lwm_4dOlhqkzJ1TX7yHN9UzUg5PY0/edit?usp=sharing">Google Slides</a> to see more details of the final project.</p>
 
 
 
