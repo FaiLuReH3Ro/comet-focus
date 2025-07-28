@@ -6,12 +6,17 @@
 
 <h3>The Segment of Interest</h3>
 
+<details>
+<summary>Click here to read</summary>
 <p>
 We are going to design a mobile app for students at The University of Texas at Dallas. This app will assist students in dealing with procrastination and help them finish their schoolwork. According to secondary research, data collected from college students in studies indicated that stressful life events, smartphone addiction, and the fear of failure are potential signs that lead to procrastination. Furthermore, interviews with UTD students pointed out that lack of motivation, laziness, and lack of interest are contributors to procrastination. These are some things to consider about the possible users when designing the app.
 </p>
+</details>
 
 <h3>Statement of the Problem</h3>
 
+<details>
+<summary>Click here to read</summary>
 <p>
 When UTD students are assigned work for their classes, many of them will procrastinate on the various tasks. According to a focus group consisting of nine ATEC major UTD students, all nine had problems with procrastination in the last year. In addition to that, two UTD students who were interviewed claimed that they were procrastinating recently. This problem has affected the students in some way. For example, three interviewed UTD students claimed that procrastination had cost them good grades. A research study, “The Positive and Negative Aspects of Procrastination in College Students” by Fanzhi Zhu, has also stated that procrastination can significantly hinder college students' academic performance.
 </p>
@@ -19,6 +24,8 @@ When UTD students are assigned work for their classes, many of them will procras
 <p>
 It is clear that procrastination is a problem for many college students. UTD students will deal with it in different ways. One interviewed participant dealt with procrastination by getting motivated. Participant two would try to do an easier task first, and participant three would turn everything off. What the three participants have in common is that they could deal with procrastination on their own. If there were a tool that could assist them with this issue, ⅔ participants stated that they would be willing to use it. Therefore, we want to help UTD students by creating a mobile application that helps these students deal with this problem. We hope that the app can allow students to do their work efficiently so that they can increase productivity and performance. 
 </p>
+
+</details>
 
 <h3>Empathy Map</h3>
 
@@ -36,6 +43,10 @@ It is clear that procrastination is a problem for many college students. UTD stu
 <img src="./Files/Future State User Journey 2.png">
 
 <h3>Recommendations</h3>
+
+<details>
+
+<summary>Click here to read</summary>
 
 <h4>Recommendation 1</h4>
 
@@ -66,6 +77,8 @@ In a focus group, it was mentioned that due dates and adrenaline can be motivato
 <p>
 According to “The Mediating Roles of Time Management and Learning Strategic Approach in the Relationship Between Smartphone Addiction and Academic Procrastination”,  smartphone addiction has a positive correlation with academic procrastination. Additionally, a focus group mentioned that social media and YouTube were some distractions when working on an assignment. To combat this, locking the phone during the timer can reduce a source of distractions. It can make the user focus on their work with more attention and eliminate addiction. 
 </p>
+
+</details>
 
 <h2>Putting it all together</h2>
 
