@@ -117,7 +117,7 @@ After doing our individual research, I was placed in a team to put everything to
 
 <h2>Presentation</h2>
 
-<p>Check out our <a href="https://docs.google.com/presentation/d/1Bs_FYXNZZEEwO4lwm_4dOlhqkzJ1TX7yHN9UzUg5PY0/edit?usp=sharing">Google Slides</a> to see more details of the final project.</p>
+<p>Check out our <a href="https://github.com/FaiLuReH3Ro/comet-focus/blob/main/Comet%20Focus.pdf">full presentation</a> to see more details of the final project.</p>
 
 
 
