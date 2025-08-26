@@ -1,8 +1,8 @@
-<h1>Comet Focus</h1>
+<h1>Comet Focus ☄️</h1>
 
 <p>I was tasked with researching academic procrastination in a UTD course in order to design a mobile app to help alleviate the problem. This is the generative research report I have gathered from the various research methods I conducted.</p>
 
-<h2>Generate Research Report</h2>
+<h2>📑 Generate Research Report</h2>
 
 <h3>The Segment of Interest</h3>
 
@@ -80,7 +80,7 @@ According to “The Mediating Roles of Time Management and Learning Strategic Ap
 
 </details>
 
-<h2>Putting it all together</h2>
+<h2>🧩 Putting it all together</h2>
 
 <p>
 After doing our individual research, I was placed in a team to put everything together and design the mobile app. My team and I designed the look and feel of the app Comet Focus. I worked on feature 2 of the app, which is the pomodoro timer. Here are the slides that my group presented at the end of the course. It includes the purpose of the project, wireframes for each feature, research that supported the features, and the overall design choices. 
@@ -115,7 +115,7 @@ After doing our individual research, I was placed in a team to put everything to
 
 <img src="./Files/Branding.png">
 
-<h2>Presentation</h2>
+<h2>🎤 Presentation</h2>
 
 <p>Check out our <a href="https://github.com/FaiLuReH3Ro/comet-focus/blob/main/Comet%20Focus.pdf">full presentation</a> to see more details of the final project.</p>
 
